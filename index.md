@@ -1,7 +1,7 @@
 
-# Yanfu Yan 
+# Yanfu Yan ![img](yanfu.png)
 
-## Bio ![img](yanfu.png)
+## Bio 
 
 I am a Ph.D candidate major in computer science in the William & Mary, under the advice of Dr. [Denys Poshyvanyk](https://www.cs.wm.edu/~denys/index.html). My research direction is software enginering with deep learning.
 
