@@ -10,8 +10,9 @@ I obtained my bachelor degree in software engineering from Xiamen University, Ch
 
 ## Pubications
 
-- **Yanfu Yan**,Ke Lu,Jian Xue, *et al*.FEAFA:AWell-AnnotatedDatasetforFacialExpressionAnalysisand3DFacialAnimation, IEEE International Conference on Multimedia and Expo Workshops, 2019, oral
+- **Yanfu Yan**,Ke Lu,Jian Xue, *et al*.FEAFA: A Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation, IEEE International Conference on Multimedia and Expo Workshops, 2019, oral
 - **Yanfu Yan**,Ke Lu,Jian Xue, *et al*. Facial Animation Method Based on Deep Learning and Expression AU Parameters, Journal of Computer-Aided Design & Computer Graphics, 2019
+- Yanhao Tan, M. M. Rahman, **Yanfu Yan**, *et al*. Fine-Grained Categorization From RGB-D Images, IEEE Transactions on Multimedia, 2021 
 
 
 
