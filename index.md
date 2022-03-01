@@ -8,10 +8,10 @@ I am a Ph.D candidate major in computer science in the William & Mary, under the
 I obtained my bachelor degree in software engineering from Xiamen University, China and also received a master degree in computer science and technology from University of Chinese Academy of Sciences.
 
 
-## Ph.D. Candidate in William & Mary
+## Pubications
 
-- Bulleted
-- List
+- **Yanfu Yan**,Ke Lu,Jian Xue, *et al*.FEAFA:AWell-AnnotatedDatasetforFacialExpressionAnalysisand3DFacialAnimation, IEEE International Conference on Multimedia and Expo Workshops, 2019, oral
+- **Yanfu Yan**,Ke Lu,Jian Xue, *et al*. Facial Animation Method Based on Deep Learning and Expression AU Parameters, Journal of Computer-Aided Design & Computer Graphics, 2019
 
 
 
