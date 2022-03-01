@@ -1,5 +1,5 @@
 
-# Yanfu Yan ![img](yanfu.png)
+# Yanfu Yan 
 
 ## Bio 
 
