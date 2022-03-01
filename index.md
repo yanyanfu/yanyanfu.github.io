@@ -1,5 +1,5 @@
 
-# Yanfu Yan ![]("/yanfu.jpeg")
+# Yanfu Yan ![](/yanfu.jpeg)
 
 ## Bio
 
