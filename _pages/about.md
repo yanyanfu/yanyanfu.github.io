@@ -1,4 +1,10 @@
----
+Yanfu Yan is a fourth-year Ph.D. candidate in computer science at William & Mary, where she is advised by [Prof. Denys Poshyvanyk]((https://www.cs.wm.edu/~denys/)). Her primary research interests lie in software engineering, focusing on areas such as software evolution and maintenance, program comprehension, deep learning for software engineering (DL4SE), and mobile app development.She holds a master's degree from the University of Chinese Academy of Sciences and a bachelor's degree from Xiamen University.
+
+
+
+
+
+<!-- ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -47,3 +53,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
