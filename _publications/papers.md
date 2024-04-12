@@ -1,4 +1,3 @@
----
 - Yan, Y., Cooper, N., Moran, K., Bavota, G., Poshyvanyk, D., and Rich, S., “Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs”, in Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE’24), Porto de Galinhas, Brazil, July 15-19, 2024.
 
 - **Yan, Y.**, Cooper, N., Chaparro, O., Moran, K., and Poshyvanyk, D., “Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports”, in Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE’24), Lisbon, Portugal, April 14-20, 2024
@@ -13,6 +12,5 @@
 
 - **Yanfu Yan**,Ke Lu,Jian Xue, *et al*. Facial Animation Method Based on Deep Learning and Expression AU Parameters, Journal of Computer-Aided Design & Computer Graphics, 2019
 
----
 
 
