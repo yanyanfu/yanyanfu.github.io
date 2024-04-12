@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my publications on <u><a target="_blank" href="{{site.author.googlescholar}}">Google Scholar</a></u> and <u><a target="_blank" href="{{site.author.dblp}}">DBLP</a></u>.
+
+The authors <u>underlined</u> are current or former students I have mentored.
+
 
 {% include base_path %}
 
