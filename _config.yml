@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscar Chaparro"
+title                    : "Yanfu Yan"
 title_separator          : "-"
-name                     : &name "Oscar Chaparro"
-description              : &description "Assistant Professor at the College of William and Mary"
-url                      : https://ojcchar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yanfu Yan"
+description              : &description "Ph.D. Candidate at William and Mary"
+url                      : https://yanyanfu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ojcchar/ojcchar.github.io"
+repository               : "ojcchar/yanyanfu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -77,14 +77,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oscar Chaparro"
+  name             : "Yanfu Yan"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at the College of William and Mary"
+  bio              : "Ph.D. Candidate William and Mary"
   location         : 
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=B90VFVYAAAAJ&hl=en"
-  dblp             : "http://dblp.uni-trier.de/pers/hd/c/Chaparro:Oscar"
-  email            : "oscarch [at] wm [dot] edu"
+  googlescholar    : "https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=zh-CN"
+  dblp             : 
+  email            : "yyan09 [at] wm [dot] edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ojcchar"
+  github           : "yanyanfu"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "ojchaparroa"
+  linkedin         : #"ojchaparroa"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ojcchar"
+  twitter          : #"ojcchar"
   vine             : 
   weibo            :
   xing             :
