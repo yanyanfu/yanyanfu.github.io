@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publications/3-fse24-athena
+permalink: /publications/4-fse24-athena
 
 title: "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs"
 authors: "**Yanfu Yan**, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, and Steve Rich"
