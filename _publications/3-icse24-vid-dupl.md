@@ -5,7 +5,7 @@ permalink: /publications/3-icse24-vid-dupl
 title: "Semantic GUI Scene Learning and Video Alignment for Detecting  Duplicate Video-based Bug Reports"
 authors: "**Yanfu Yan**, Nathan Cooper, Oscar Chaparro, Kevin Moran, and Denys Poshyvanyk"
 venue_key: "icse24"
-track: 
+track: "Research Track"
 pages: 
 date: 2024-04-19
 doiurl: https://doi.org/10.1145/3597503.3639163
