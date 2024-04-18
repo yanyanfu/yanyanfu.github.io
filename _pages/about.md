@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+## Bio
 Yanfu Yan is a fourth-year Ph.D. candidate in computer science at William & Mary, where she is advised by [Prof. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). Her primary research interests lie in software engineering, focusing on areas such as software evolution and maintenance, program comprehension, deep learning for software engineering (DL4SE), and mobile app development. She holds a master's degree from the University of Chinese Academy of Sciences and a bachelor's degree from Xiamen University.
+
+## Publications
 
 <!-- I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
