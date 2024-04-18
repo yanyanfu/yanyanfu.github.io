@@ -4,11 +4,11 @@ title: "Contact"
 author_profile: true
 ---
 
-**Oscar Chaparro**  
-Email: oscarch [at] wm [dot] edu  
-Phone: (757)-221-2144  
+**Yanfu Yan**  
+Email: yyan09 [at] wm [dot] edu  
+Phone: (757)-224-4174 
 Department of Computer Science  
-College of William and Mary  
+William and Mary  
 McGlothlin-Street Hall 311  
 251 Jamestown Rd.  
 Williamsburg, VA 23185, USA  
