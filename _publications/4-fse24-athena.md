@@ -6,11 +6,11 @@ title: "Enhancing Code Understanding for Impact Analysis by Combining Transforme
 authors: "**Yanfu Yan**, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, and Steve Rich"
 venue_key: "fse24"
 track: 
-pages: "(to appear)"
+pages: 
 date: 2024-07-03
 doiurl: https://doi.org/10.1145/3643770
 
-paperurl: /files/28-icse24-vid-dupl.pdf
+paperurl: /files/4-fse24-athena.pdf
 package: 
 notes: 
 distinction: 

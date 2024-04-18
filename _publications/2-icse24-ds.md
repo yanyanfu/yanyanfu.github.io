@@ -6,7 +6,7 @@ title: "On Improving Management of Duplicate Video-Based Bug Reports"
 authors: "**Yanfu Yan**"
 venue_key: "icse24"
 track: Doctoral Symposium
-pages: "(to appear)"
+pages: 
 date: 2024-04-16
 doiurl: https://doi.org/10.1145/3639478.3639786
 

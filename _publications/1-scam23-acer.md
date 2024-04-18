@@ -1,8 +1,6 @@
 ---
----
----
 collection: publications
-permalink: /publications/1-scam23-acerA
+permalink: /publications/1-scam23-acer
 
 title: "ACER: An AST-based Call Graph Generator Framework"
 authors: "Andrew Chen, **Yanfu Yan**, and Denys Poshyvanyk"
