@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-## Bio
-
+About Me
+======
 Yanfu Yan is a fourth-year Ph.D. candidate in computer science at William & Mary, where she is advised by [Prof. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). Her primary research interests lie in software engineering, focusing on areas such as software evolution and maintenance, program comprehension, deep learning for software engineering (DL4SE), and mobile app development. She holds a master's degree from the University of Chinese Academy of Sciences and a bachelor's degree from Xiamen University.
 
 
@@ -19,7 +19,7 @@ Yanfu Yan is a fourth-year Ph.D. candidate in computer science at William & Mary
 
 **Yan, Y.**, Cooper, N., Chaparro, O., Moran, K., and Poshyvanyk, D., “Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports”, in Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE’24), Lisbon, Portugal, April 14-20, 2024
 
-**Yan, Y.**, Cooper, N., Chaparro, O., Moran, K., and Poshyvanyk, D., “On Improving Management of Duplicate Video-Based Bug Reports”, in Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE’24), Doctoral Smposium, Lisbon, Portugal, April 14-20, 2024
+**Yan, Y.**, “On Improving Management of Duplicate Video-Based Bug Reports”, in Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE’24), Doctoral Smposium, Lisbon, Portugal, April 14-20, 2024
 
 Chen, A., **Yan, Y.**, and Poshyvanyk, D. “ACER: An AST-based Call Graph Generator Framework”, in Proceedings of the 23rd International Working Conference on Source Code Analysis and Manipulation (SCAM’23), Bogotà, Colombia, October 2-3th, 2023
 
