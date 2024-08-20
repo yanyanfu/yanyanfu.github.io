@@ -2,7 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/74/8828.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
-<ul>
+<ul style="margin:0 0 5px;">
+
 <li><strong><span style="color: #2e8bc0">[FSE'24]</span></strong> <strong> Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs.</strong>
  <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, and Steve Rich. 
  <br/><em>Proceedings of the ACM International Conference on the Foundations of Software Engineering.</em> 

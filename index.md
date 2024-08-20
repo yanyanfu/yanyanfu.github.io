@@ -21,7 +21,7 @@ Yanfu Yan is a Ph.D. student in the Department of Computer Science at [William &
 
 {% include_relative _includes/teaching.md %}
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
 {% include_relative _includes/services.md %}
 

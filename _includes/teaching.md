@@ -1,18 +1,20 @@
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Teaching</h2>
+<h2 style="margin: 60px 0px 10px;">Talks and Teaching</h2>
 
-<!-- <ul>
-  <li>
-    Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
-  </li>
-  <li>
-    Student Mentor, <a href="https://sites.google.com/view/cvpr-academy/">CVPR Academy</a> at <a href="https://cvpr2022.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</a>, 2022
-  </li>
-  <li>
-    Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss21/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute</a>, 2021
-  </li>
-  <li>
-    Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
-  </li>
-</ul> -->
+
+<h4 style="margin:0 10px 0;">Talks</h4>
+<ul style="margin:0 0 5px;">
+  <li>Talk at FSE for my research paper titled "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs", 2024</li>
+  <li>Talk at ICSE for my research paper titled "Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports", 2024</li>
+  <li>Talk at the ACM Capital Region Celebration of Women in Computing conference (CAPWIC) on Code Understanding for Impact Analysis, 2024</li>
+  <li>Invited talk on Neural Code Understanding by Combining Transformers and Program Dependence Graphs at the School of Informatics, Xiamen University, 2023</li>
+</ul>
+
+
+<h4 style="margin:0 10px 0;">Teaching</h4>
+<ul style="margin:0 0 5px;">
+  <li>Lab Instructor and Teaching Assistant, Programming for Data Science, William & Mary, 2022</li>
+  <li>Teaching Assistant, Software Engineering, William & Mary, 2021</li>
+  <li>Teaching Assistant, Digital Image Processing, Univeristy of Chinese Academy of Sciences, 2017</li>
+</ul>
