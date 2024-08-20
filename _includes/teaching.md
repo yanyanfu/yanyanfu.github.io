@@ -11,10 +11,10 @@
   <li>Invited talk on Neural Code Understanding by Combining Transformers and Program Dependence Graphs at the School of Informatics, Xiamen University, 2023</li>
 </ul>
 
-
 <h4 style="margin:0 10px 0;">Teaching</h4>
 <ul style="margin:0 0 5px;">
   <li>Lab Instructor and Teaching Assistant, Programming for Data Science, William & Mary, 2022</li>
   <li>Teaching Assistant, Software Engineering, William & Mary, 2021</li>
-  <li>Teaching Assistant, Digital Image Processing, Univeristy of Chinese Academy of Sciences, 2017</li>
+  <li>Teaching Assistant, Digital Image Processing, University of Chinese Academy of Sciences, 2017</li>
 </ul>
+

@@ -31,11 +31,11 @@
 <h4 style="margin:0 10px 0;">External Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/ACM International Conference on Software Engineering (ICSE) 2022, 2023, 2025</autocolor></a></li>
-  <li><a href="http://iccv2023.thecvf.com/"><autocolor>ACM International Conference on the Foundations of Software Engineering (FSE) 2023, 2024</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>IEEE/ACM International Conference on Automated Software Engineering (ASE) 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2023"><autocolor>International Conference on Software Maintenance and Evolution (ICSME) 2022-2024</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2022"><autocolor>IEEE/ACM International Conference on Program Comprehension (ICPC) 2024</autocolor></a></li>
+  <li>IEEE/ACM International Conference on Software Engineering (ICSE) 2022, 2023, 2025</li>
+  <li>ACM International Conference on the Foundations of Software Engineering (FSE) 2023, 2024</li>
+  <li>IEEE/ACM International Conference on Automated Software Engineering (ASE) 2022</li>
+  <li>International Conference on Software Maintenance and Evolution (ICSME) 2022-2024</li>
+  <li>IEEE/ACM International Conference on Program Comprehension (ICPC) 2024</li>
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
@@ -45,5 +45,5 @@
 <h4 style="margin:0 10px 0;">Student Volunteers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE/ACM International Conference on Software Engineering (ICSE) 2022</autocolor></a></li>
+  <li>IEEE/ACM International Conference on Software Engineering (ICSE) 2022</li>
 </ul>
