@@ -2,15 +2,15 @@
 title: Yanfu Yan
 position: Ph.D. Student
 affiliation: William & Mary, USA 
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+affiliation_link: 
+affiliation_logo: 
 email: yyan09 (at) wm.edu
 email2: yanyanfu1021 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 keywords: yanfu yan, yan yanfu, yanfu yan, yanfu
 canonical: 
-description: Yanfu Yan is a Ph.D. student at William & Mary, USA. His research lies in meta-learning, incremental learning, and image generation.
+description: Yanfu Yan is a Ph.D. student at William & Mary, USA. Her primary research interests lie in software evolution and maintenance, AI4SE, and trustworthy AI. 
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -22,7 +22,7 @@ enable_last_update: false
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=zh-CN
 github_link: https://github.com/yanyanfu
-linkedin: https://www.linkedin.com/in/liuyaoyao/
+linkedin: https://www.linkedin.com/in/yanfu-yan-71b7a5273/
 twitter: 
 
 # Images 

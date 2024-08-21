@@ -3,33 +3,34 @@
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/74/8828.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <ul style="margin:0 0 5px;">
-
 <li><strong><span style="color: #2e8bc0">[FSE'24]</span></strong> <strong> Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs.</strong>
  <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Kevin Moran, Gabriele Bavota, Denys Poshyvanyk, and Steve Rich. 
  <br/><em>Proceedings of the ACM International Conference on the Foundations of Software Engineering.</em> 
 </li>
-<br/>
+</ul>
 
+<ul style="margin:0 0 5px;">
 <li><strong><span style="color: #2e8bc0">[ICSE'24]</span></strong> <strong> Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports.</strong>
  <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Oscar Chaparro, Kevin Moran, and Denys Poshyvanyk. 
  <br/><em>Proceedings of the 46th IEEE/ACM International Conference on Software Engineering.</em>
 </li>
-<br/>
+</ul>
 
+<ul style="margin:0 0 5px;">
 <li><strong><span style="color: #2e8bc0">[ICSE'24-DS]</span></strong> <strong> On Improving Management of Duplicate Video-Based Bug Reports.</strong>
  <br/><strong>Yanfu Yan</strong>. 
  <br/><em>Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, Doctoral Symposium.</em>
 </li>
-<br/>
+</ul>
 
+<ul style="margin:0 0 5px;">
 <li><strong><span style="color: #2e8bc0">[SCAM'23]</span></strong> <strong> ACER: An AST-based Call Graph Generator Framework.</strong>
  <br/>Andrew Chen, <strong>Yanfu Yan</strong>, and Denys Poshyvanyk. 
  <br/><em>Proceedings of the 23rd International Working Conference on Source Code Analysis and Manipulation, Engineering Track.</em>
 </li>
-<br/>
-
-
 </ul>
+
+
 
 
 <!-- <div class="publications">

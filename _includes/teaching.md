@@ -8,7 +8,7 @@
   <li>Talk at FSE for my research paper titled "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs", 2024</li>
   <li>Talk at ICSE for my research paper titled "Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports", 2024</li>
   <li>Talk at the ACM Capital Region Celebration of Women in Computing conference (CAPWIC) on Code Understanding for Impact Analysis, 2024</li>
-  <li>Invited talk on Neural Code Understanding by Combining Transformers and Program Dependence Graphs at the School of Informatics, Xiamen University, 2023</li>
+  <li>Invited talk on Enhancing Code Understanding by Combining Transformers and Program Dependence Graphs at the School of Informatics, Xiamen University, 2023</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
