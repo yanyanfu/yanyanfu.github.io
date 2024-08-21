@@ -2,7 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<ul style="margin:0 5px 0;">
 <strong>Address:</strong> 737 Landrum Dr, Williamsburg, VA 23185
 <br />
 <strong>Office Location:</strong> McGlothlin-Street Hall 101 
@@ -10,4 +9,3 @@
 <strong>Email:</strong> <email>yyan09 (at) wm.edu</email>
 <br />
 <strong>Phone:</strong> (757) 254-4174</p>
-</ul>
