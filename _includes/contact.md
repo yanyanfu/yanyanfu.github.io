@@ -8,4 +8,4 @@
 <br />
 <strong>Email:</strong> <email>yyan09 (at) wm.edu</email>
 <br />
-<strong>Phone:</strong> (757) 254-4174</p>
+<strong>Phone:</strong> (757) 254-4174
