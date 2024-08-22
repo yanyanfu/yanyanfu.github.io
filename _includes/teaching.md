@@ -1,6 +1,6 @@
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Talks and Teaching</h2>
+<h2 style="margin: 45px 0px 10px;">Talks and Teaching</h2>
 
 
 <h4 style="margin:0 10px 0;">Talks</h4>
