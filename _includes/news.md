@@ -4,7 +4,7 @@
 
 <ul>
 
-<li><strong>[Nov. 2024]</strong> One paper on <a href=" ">Towards More Trustworthy Deep Code Models</a> is accepted to <a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</a> Research Track (112/523)!!! Thanks to the collaborators <a href="https://shj1987.github.io/">Huajie</a>, and <a href="https://www.linkedin.com/in/viet-duong-431852a0/">Viet</a>!!</li>
+<li><strong>[Nov. 2024]</strong> One paper on <a href=" ">Towards More Trustworthy Deep Code Models</a> is accepted to <a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</a> Research Track (112/523)!!! Thanks to the collaborators <a href="https://shj1987.github.io/">Huajie</a> and <a href="https://www.linkedin.com/in/viet-duong-431852a0/">Viet</a>!!</li>
 
 <li><strong>[Apr. 2024]</strong> I gave a research talk on Enhancing Code Understanding for Impact Analysis in <a href="https://capwic.org/">CAPWIC 2024</a> (the ACM Capital Region Celebration of Women in Computing Conference)</li>
 
