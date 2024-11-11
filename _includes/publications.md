@@ -3,8 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/74/8828.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection![image](https://github.com/user-attachments/assets/ef304eee-c7df-45aa-87fd-a9649d41097e)
-.</strong>
+<li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection.</strong>
  <br/><strong>Yanfu Yan</strong>, Viet Duong, Huajie Shao, and Denys Poshyvanyk. 
  <br/><em>Proceedings of the ACM International Conference on the Foundations of Software Engineering.</em> 
 </li>
