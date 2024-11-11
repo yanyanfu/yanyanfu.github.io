@@ -5,7 +5,7 @@
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection.</strong>
  <br/><strong>Yanfu Yan</strong>, Viet Duong, Huajie Shao, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the ACM International Conference on the Foundations of Software Engineering.</em> 
+ <br/><em>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering.</em> 
 </li>
 </ul>
 
