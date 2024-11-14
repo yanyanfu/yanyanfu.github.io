@@ -1,6 +1,4 @@
 
-<a class="normal" href="./#market">market</a>
-
 <h1 id="market"></h1>
 
 <h2 style="margin: 60px 0px 10px;">CV</h2>
