@@ -1,4 +1,5 @@
-{% include base_path %}
+
+<a class="normal" href="https://yanyanfu.github.io/#market"</a>
 
 <h1 id="market"></h1>
 
