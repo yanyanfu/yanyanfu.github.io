@@ -6,7 +6,7 @@
 
 <ul>
 
-<li><a href="https://github.com/yanyanfu/yanyanfu.github.io/blob/main/Yanfu-Yan-CV-Research.pdf">Curriculum Vitae</a></li>
+<li><a href="https://github.com/yanyanfu/yanyanfu.github.io/blob/main/files/Yanfu-Yan-CV-Research.pdf">Curriculum Vitae</a></li>
 
 
 </ul>
