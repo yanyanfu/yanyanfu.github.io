@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Yanfu Yan is a Ph.D. student in the Department of Computer Science at [William & Mary](https://www.wm.edu/) 🇺🇸, where she is fortunately advised by [Prof. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). She graduated with her M.S. in computer applied technology from the University of Chinese Academy of Sciences, and her B.E. in software engineering from Xiamen University. Her primary research interests lie in software engineering, with a special focus on software evolution and maintenance, artificial intelligence for software engineering (AI4SE), and trustworthy AI. 
+Yanfu Yan is a Ph.D. student in the Department of Computer Science at [William & Mary](https://www.wm.edu/) 🇺🇸, where she is fortunately advised by [Prof. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). She graduated with her M.S. in computer applied technology from the University of Chinese Academy of Sciences, and her B.E. in software engineering from Xiamen University. Her primary research interests lie in software engineering, with a special focus on software evolution and maintenance, artificial intelligence for software engineering (AI4SE), mobile software, repository mining, and trustworthy AI. 
 
 
 <!--
