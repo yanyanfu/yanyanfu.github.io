@@ -5,7 +5,7 @@
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection.</strong>
  <br/><strong>Yanfu Yan</strong>, Viet Duong, Huajie Shao, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the 47th IEEE/ACM International Conference on Software Engineering.</em> 
+ <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering.</em> 
 </li>
 </ul>
 
@@ -19,21 +19,21 @@
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[ICSE'24]</span></strong> <strong> Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports.</strong>
  <br/><strong>Yanfu Yan</strong>, Nathan Cooper, Oscar Chaparro, Kevin Moran, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the 46th IEEE/ACM International Conference on Software Engineering.</em>
+ <br/><em>Proceedings of the IEEE/ACM 46th International Conference on Software Engineering.</em>
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[ICSE'24-DS]</span></strong> <strong> On Improving Management of Duplicate Video-Based Bug Reports.</strong>
  <br/><strong>Yanfu Yan</strong>. 
- <br/><em>Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, Doctoral Symposium.</em>
+ <br/><em>Proceedings of the IEEE/ACM 46th International Conference on Software Engineering, Doctoral Symposium.</em>
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
 <li><strong><span style="color: #13825d">[SCAM'23]</span></strong> <strong> ACER: An AST-based Call Graph Generator Framework.</strong>
  <br/>Andrew Chen, <strong>Yanfu Yan</strong>, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the 23rd International Working Conference on Source Code Analysis and Manipulation, Engineering Track.</em>
+ <br/><em>Proceedings of the IEEE 23rd International Working Conference on Source Code Analysis and Manipulation.</em>
 </li>
 </ul>
 

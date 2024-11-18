@@ -5,6 +5,7 @@
 
 <h4 style="margin:0 10px 0;">Talks</h4>
 <ul style="margin:0 0 5px;">
+  <li>Invited talk on Software Maintenance and Evolution in the Era of Large Pre-trained Models at the NC State University, 2024</li>
   <li>Talk at FSE for my research paper titled "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs", 2024</li>
   <li>Talk at ICSE for my research paper titled "Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports", 2024</li>
   <li>Talk at the ACM Capital Region Celebration of Women in Computing conference (CAPWIC) on Code Understanding for Impact Analysis, 2024</li>
