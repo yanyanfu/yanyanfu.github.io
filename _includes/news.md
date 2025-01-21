@@ -4,6 +4,8 @@
 
 <ul>
 
+<li><strong>[Nov. 2024]</strong> One paper on <a href=" ">Unified Code Generation</a> is accepted to <a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</a> New Ideas and Emerging Results Track (25/97)!! Thanks to the collaborators <a href="https://cdmc.xmu.edu.cn/en/info/1010/1008.htm">Jinsong</a> and Liangying from Xiamen University!!</li>
+
 <li><strong>[Nov. 2024]</strong> One paper on <a href=" ">Towards More Trustworthy Deep Code Models</a> is accepted to <a href="https://conf.researchr.org/home/icse-2025">ICSE 2025</a> Research Track (112/523)!! Thanks to the collaborators <a href="https://shj1987.github.io/">Huajie</a> and <a href="https://www.linkedin.com/in/viet-duong-431852a0/">Viet</a>!</li>
 
 <li><strong>[Nov. 2024]</strong> I gave an invited research talk on Software Maintenance and Evolution in the Era of Large Pre-trained Models at the <a href="https://www.ncsu.edu/">NC State University</a>. Thanks to the host <a href="https://www.bowenxu.me/">Bowen</a>!!</li>
