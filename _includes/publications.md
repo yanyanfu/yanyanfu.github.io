@@ -3,16 +3,16 @@
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=M-bzdRoAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/74/8828.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> UniGenCoder: Merging Seq2Seq and Seq2Tree Paradigms for Unified Code Generation.</strong>
- <br/>Liangying Shao, <strong>Yanfu Yan (Co-Frist)</strong>, Denys Poshyvanyk, and Jinsong Su.
- <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering, New Ideas and Emerging Results Track.</em> 
+<li><strong><span style="color: #13825d">[ICSE'25]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection.</strong>
+ <br/><strong>Yanfu Yan</strong>, Viet Duong, Huajie Shao, and Denys Poshyvanyk. 
+ <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering.</em> 
 </li>
 </ul>
 
 <ul style="margin:0 0 8px;">
-<li><strong><span style="color: #13825d">[ICSE'25-NIER]</span></strong> <strong> Towards More Trustworthy Deep Code Models by Enabling Out-of-Distribution Detection.</strong>
- <br/><strong>Yanfu Yan</strong>, Viet Duong, Huajie Shao, and Denys Poshyvanyk. 
- <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering.</em> 
+<li><strong><span style="color: #13825d">[ICSE'25-NIER]</span></strong> <strong> UniGenCoder: Merging Seq2Seq and Seq2Tree Paradigms for Unified Code Generation.</strong>
+ <br/>Liangying Shao, <strong>Yanfu Yan (Co-Frist)</strong>, Denys Poshyvanyk, and Jinsong Su.
+ <br/><em>Proceedings of the IEEE/ACM 47th International Conference on Software Engineering, New Ideas and Emerging Results Track.</em> 
 </li>
 </ul>
 
